@@ -13,7 +13,10 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 <br/>Link: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 <br/>
 ##Source Data Used:
-<br/>https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-##
-
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+##Components
+<br/>1) Readme.md 
+<br/>2) run_analysis.R: R Script that process the data source to produce the tinydata.txt file output
+<br/>3) tidydata.txt:This data set has been produced by the R script “run_analysis”
+<br/>4) Codebook.md: Explains the data and R script 
 
