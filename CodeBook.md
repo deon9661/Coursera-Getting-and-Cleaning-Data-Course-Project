@@ -33,3 +33,10 @@ Original Data Set Information: https://archive.ics.uci.edu/ml/datasets/Human+Act
 <br/>Step 11: Select columns in order subject, activity, ....
 <br/>Step 12: Calculate mean grouped by Subject and Activity
 <br/>Step 13: Write aggregated data to file "tidydata.txt"
+
+## Data Varibles
+Activity Data from “Y_train.txt” and “Y_test.txt”
+<br/> Subject from “subject_train.txt” and subject_test.txt"
+<br/> Features from “features.txt”
+<br/> Activity Descriptions from “activity_labels.txt”
+
